@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\bin\Debug\net5.0\GradingIf.exe
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\bin\Debug\net5.0\GradingIf.deps.json
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\bin\Debug\net5.0\GradingIf.runtimeconfig.json
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\bin\Debug\net5.0\GradingIf.runtimeconfig.dev.json
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\bin\Debug\net5.0\GradingIf.dll
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\bin\Debug\net5.0\ref\GradingIf.dll
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\bin\Debug\net5.0\GradingIf.pdb
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\GradingIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\GradingIf.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\GradingIf.AssemblyInfo.cs
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\GradingIf.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\GradingIf.dll
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\ref\GradingIf.dll
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\GradingIf.pdb
+C:\Users\sande\source\repos\PersonalityTest\GradingIf\obj\Debug\net5.0\GradingIf.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.AssemblyInfo.cs
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.exe
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.deps.json
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.runtimeconfig.json
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.runtimeconfig.dev.json
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.dll
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\ref\CatsAndDogs.dll
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.pdb
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.dll
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\ref\CatsAndDogs.dll
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.pdb
+C:\Users\sande\source\repos\PersonalityTest\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.genruntimeconfig.cache
